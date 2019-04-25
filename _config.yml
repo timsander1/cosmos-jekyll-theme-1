@@ -1,5 +1,5 @@
 title: Docs Theme
-description: "This series of workshops will give you hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK."
+description: "This series of workshops will give you hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript, .NET Core SDK, and Java Async SDK."
 repository: azure-immersion/cosmos-jekyll-theme
 markdown: kramdown
 kramdown:
